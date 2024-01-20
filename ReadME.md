@@ -3,6 +3,10 @@
 ## Overview
 This project aims to predict the medical condition of patients based on their drug reviews. The dataset used contains drug reviews from various customers, and the goal is to classify the reviews into specific medical conditions such as Birth Control, Depression, High Blood Pressure, and Diabetes Type 2.
 
+
+![Medications](https://huenemefamily.com/wp-content/uploads/2016/06/medications-620x420_c.jpg)
+
+
 ## Dataset
 The dataset used in this project is loaded from the 'drugsComTrain_raw.tsv' file, containing information about drug reviews, including the drug name, rating, date, useful count, and the condition for which the drug was taken.
 
